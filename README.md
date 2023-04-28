@@ -7,7 +7,7 @@ This Project was aimed at putting to practice what we’ve learned about CSS Gri
 Your friend has just opened a doggie daycare and grooming services shop, PupSpa. 
 They would like a simple web page to let customers know about their services.
 
-We currently have an HTML document styled with CSS, but every <div> appears in its own row. 
+We currently have an HTML document styled with CSS, but *every <div> appears in its own row.* 
 Let’s add some CSS grid properties to make parts of the site appear more cohesive. Some of the properties we’ll be using include:
 
 1. display
